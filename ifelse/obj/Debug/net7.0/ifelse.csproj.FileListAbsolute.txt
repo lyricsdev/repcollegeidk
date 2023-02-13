@@ -1,0 +1,15 @@
+C:\3ip-2-20\ifelse\obj\Debug\net7.0\ifelse.csproj.AssemblyReference.cache
+C:\3ip-2-20\ifelse\obj\Debug\net7.0\ifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\3ip-2-20\ifelse\obj\Debug\net7.0\ifelse.AssemblyInfoInputs.cache
+C:\3ip-2-20\ifelse\obj\Debug\net7.0\ifelse.AssemblyInfo.cs
+C:\3ip-2-20\ifelse\obj\Debug\net7.0\ifelse.csproj.CoreCompileInputs.cache
+C:\3ip-2-20\ifelse\bin\Debug\net7.0\ifelse.exe
+C:\3ip-2-20\ifelse\bin\Debug\net7.0\ifelse.deps.json
+C:\3ip-2-20\ifelse\bin\Debug\net7.0\ifelse.runtimeconfig.json
+C:\3ip-2-20\ifelse\bin\Debug\net7.0\ifelse.dll
+C:\3ip-2-20\ifelse\bin\Debug\net7.0\ifelse.pdb
+C:\3ip-2-20\ifelse\obj\Debug\net7.0\ifelse.dll
+C:\3ip-2-20\ifelse\obj\Debug\net7.0\refint\ifelse.dll
+C:\3ip-2-20\ifelse\obj\Debug\net7.0\ifelse.pdb
+C:\3ip-2-20\ifelse\obj\Debug\net7.0\ifelse.genruntimeconfig.cache
+C:\3ip-2-20\ifelse\obj\Debug\net7.0\ref\ifelse.dll

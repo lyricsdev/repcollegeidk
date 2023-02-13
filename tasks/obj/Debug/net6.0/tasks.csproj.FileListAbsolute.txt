@@ -1,0 +1,15 @@
+C:\3ip-2-20\tasks\bin\Debug\net6.0\tasks.exe
+C:\3ip-2-20\tasks\bin\Debug\net6.0\tasks.deps.json
+C:\3ip-2-20\tasks\bin\Debug\net6.0\tasks.runtimeconfig.json
+C:\3ip-2-20\tasks\bin\Debug\net6.0\tasks.dll
+C:\3ip-2-20\tasks\bin\Debug\net6.0\tasks.pdb
+C:\3ip-2-20\tasks\obj\Debug\net6.0\tasks.csproj.AssemblyReference.cache
+C:\3ip-2-20\tasks\obj\Debug\net6.0\tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\3ip-2-20\tasks\obj\Debug\net6.0\tasks.AssemblyInfoInputs.cache
+C:\3ip-2-20\tasks\obj\Debug\net6.0\tasks.AssemblyInfo.cs
+C:\3ip-2-20\tasks\obj\Debug\net6.0\tasks.csproj.CoreCompileInputs.cache
+C:\3ip-2-20\tasks\obj\Debug\net6.0\tasks.dll
+C:\3ip-2-20\tasks\obj\Debug\net6.0\refint\tasks.dll
+C:\3ip-2-20\tasks\obj\Debug\net6.0\tasks.pdb
+C:\3ip-2-20\tasks\obj\Debug\net6.0\tasks.genruntimeconfig.cache
+C:\3ip-2-20\tasks\obj\Debug\net6.0\ref\tasks.dll

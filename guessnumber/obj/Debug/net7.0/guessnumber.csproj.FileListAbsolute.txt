@@ -1,0 +1,15 @@
+C:\3ip-2-20\guessnumber\obj\Debug\net7.0\guessnumber.csproj.AssemblyReference.cache
+C:\3ip-2-20\guessnumber\obj\Debug\net7.0\guessnumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\3ip-2-20\guessnumber\obj\Debug\net7.0\guessnumber.AssemblyInfoInputs.cache
+C:\3ip-2-20\guessnumber\obj\Debug\net7.0\guessnumber.AssemblyInfo.cs
+C:\3ip-2-20\guessnumber\obj\Debug\net7.0\guessnumber.csproj.CoreCompileInputs.cache
+C:\3ip-2-20\guessnumber\bin\Debug\net7.0\guessnumber.exe
+C:\3ip-2-20\guessnumber\bin\Debug\net7.0\guessnumber.deps.json
+C:\3ip-2-20\guessnumber\bin\Debug\net7.0\guessnumber.runtimeconfig.json
+C:\3ip-2-20\guessnumber\bin\Debug\net7.0\guessnumber.dll
+C:\3ip-2-20\guessnumber\bin\Debug\net7.0\guessnumber.pdb
+C:\3ip-2-20\guessnumber\obj\Debug\net7.0\guessnumber.dll
+C:\3ip-2-20\guessnumber\obj\Debug\net7.0\refint\guessnumber.dll
+C:\3ip-2-20\guessnumber\obj\Debug\net7.0\guessnumber.pdb
+C:\3ip-2-20\guessnumber\obj\Debug\net7.0\guessnumber.genruntimeconfig.cache
+C:\3ip-2-20\guessnumber\obj\Debug\net7.0\ref\guessnumber.dll
