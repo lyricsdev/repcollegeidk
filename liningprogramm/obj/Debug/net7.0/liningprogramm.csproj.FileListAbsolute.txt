@@ -1,0 +1,15 @@
+C:\3ip-2-20\liningprogramm\obj\Debug\net7.0\liningprogramm.csproj.AssemblyReference.cache
+C:\3ip-2-20\liningprogramm\obj\Debug\net7.0\liningprogramm.GeneratedMSBuildEditorConfig.editorconfig
+C:\3ip-2-20\liningprogramm\obj\Debug\net7.0\liningprogramm.AssemblyInfoInputs.cache
+C:\3ip-2-20\liningprogramm\obj\Debug\net7.0\liningprogramm.AssemblyInfo.cs
+C:\3ip-2-20\liningprogramm\obj\Debug\net7.0\liningprogramm.csproj.CoreCompileInputs.cache
+C:\3ip-2-20\liningprogramm\bin\Debug\net7.0\liningprogramm.exe
+C:\3ip-2-20\liningprogramm\bin\Debug\net7.0\liningprogramm.deps.json
+C:\3ip-2-20\liningprogramm\bin\Debug\net7.0\liningprogramm.runtimeconfig.json
+C:\3ip-2-20\liningprogramm\bin\Debug\net7.0\liningprogramm.dll
+C:\3ip-2-20\liningprogramm\bin\Debug\net7.0\liningprogramm.pdb
+C:\3ip-2-20\liningprogramm\obj\Debug\net7.0\liningprogramm.dll
+C:\3ip-2-20\liningprogramm\obj\Debug\net7.0\refint\liningprogramm.dll
+C:\3ip-2-20\liningprogramm\obj\Debug\net7.0\liningprogramm.pdb
+C:\3ip-2-20\liningprogramm\obj\Debug\net7.0\liningprogramm.genruntimeconfig.cache
+C:\3ip-2-20\liningprogramm\obj\Debug\net7.0\ref\liningprogramm.dll
